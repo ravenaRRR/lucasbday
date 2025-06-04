@@ -37,7 +37,7 @@ body {
 
 /* Estilo do dia de aniversário destacado */
 #data {
-  border: 1px solid #5255e9;
+  border: 1px solid blue;
   background-image: linear-gradient(to left,#5255e9, #3370e2);
   color: white;
   border-radius: 30px;
